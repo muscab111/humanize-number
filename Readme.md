@@ -1,5 +1,4 @@
-1
-55
+12
 
 # humanize-number
 
